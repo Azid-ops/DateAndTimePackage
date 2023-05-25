@@ -1,0 +1,15 @@
+{
+  "name": "@azid-ops/currentdateandtime",
+  "version": "1.0.0",
+  "description": "This Package gives you current date and time.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azid-ops",
+  "license": "ISC",
+  "dependencies": {
+    "@azid-ops/currentdateandtime": "^1.0.0",
+    "@azid-ops/dateandtime": "^1.0.0"
+  }
+}
