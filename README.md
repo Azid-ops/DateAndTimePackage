@@ -8,6 +8,7 @@ const currentDateAndTime = require("@azid-ops/currentdateandtime");
 
 ### Consoling The Result
 console.log("Date: " + currentDateAndTime.date());
+
 console.log("Time: " + currentDateAndTime.time());
 
 ### How To Run
